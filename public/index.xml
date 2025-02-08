@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Tomáš Stupavský</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on Tomáš Stupavský</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>sk-SK</language>
+    <lastBuildDate>Sat, 08 Feb 2025 09:57:26 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Človeku je cez deň fajn, keď sa v noci vyspí.</title>
+      <link>//localhost:1313/posts/example/</link>
+      <pubDate>Sat, 08 Feb 2025 09:57:26 +0100</pubDate>
+      <guid>//localhost:1313/posts/example/</guid>
+      <description>&lt;p&gt;Toto je príkladný príspevok.&lt;/p&gt;
+&lt;p&gt;Vážení priatelia, v poslednej dobe som prišiel na preborný objav: začal som chodiť spávať i vstávať v pravidelných časoch a, čuduj sa svete, nemohol som si nevšimnúť, že sa počas dňa cítim čoraz menej unavený, ba čo viac, ešte k tomu mám aj viac sily a všeobecne lepšiu náladu.&lt;/p&gt;
+&lt;p&gt;Čoskoro zašlem svoje výsledky tohoto výskumu na Viedenskú Univerzitu, aby ich vyhodnotili a zverejnili v odborných publikáciách a nominovali ma ako laureáta Nobelovej ceny za pokroky vo vede o ľudskom tele.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ďalšie zaujímavé poznatky</title>
+      <link>//localhost:1313/posts/example-2/</link>
+      <pubDate>Sat, 08 Feb 2025 09:57:26 +0100</pubDate>
+      <guid>//localhost:1313/posts/example-2/</guid>
+      <description>&lt;p&gt;Toto je príkladný príspevok.&lt;/p&gt;
+&lt;p&gt;Vážení priatelia, v poslednej dobe som prišiel na preborný objav: začal som chodiť spávať i vstávať v pravidelných časoch a, čuduj sa svete, nemohol som si nevšimnúť, že sa počas dňa cítim čoraz menej unavený, ba čo viac, ešte k tomu mám aj viac sily a všeobecne lepšiu náladu.&lt;/p&gt;
+&lt;p&gt;Čoskoro zašlem svoje výsledky tohoto výskumu na Viedenskú Univerzitu, aby ich vyhodnotili a zverejnili v odborných publikáciách a nominovali ma ako laureáta Nobelovej ceny za pokroky vo vede o ľudskom tele.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Koncert renomovaného organistu Tomáša Jeřábka</title>
+      <link>//localhost:1313/events/example/</link>
+      <pubDate>Sat, 08 Feb 2025 09:54:01 +0100</pubDate>
+      <guid>//localhost:1313/events/example/</guid>
+      <description>&lt;p&gt;Toto je príkladný príspevok.&lt;/p&gt;
+&lt;p&gt;Vážení priatelia, dovoľte mi, aby som Vás pozval na organový koncert vo viedenskej &lt;a href=&#34;https://karlskirche.at&#34;&gt;Karlskirche&lt;/a&gt;. Koncert sa uskutoční dňa 30.1.2025 o 19:00. Vstupné je dobrovoľné.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slnko</title>
+      <link>//localhost:1313/music/example/</link>
+      <pubDate>Sat, 08 Feb 2025 09:54:01 +0100</pubDate>
+      <guid>//localhost:1313/music/example/</guid>
+      <description>&lt;p&gt;Toto je príkladný príspevok.&lt;/p&gt;
+&lt;p&gt;Táto pieseň vznikla pomerne dávno ako reakcia na čudesný stav umŕtvenia.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/dQw4w9WgXcQ?si=m9FFqx33cP0lwccu&#34;&gt;Vypočujte si ju&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sídlisko</title>
+      <link>//localhost:1313/poems/example/</link>
+      <pubDate>Sat, 08 Feb 2025 09:29:22 +0100</pubDate>
+      <guid>//localhost:1313/poems/example/</guid>
+      <description>&lt;p&gt;Toto je príkladný príspevok.&lt;/p&gt;
+&lt;p&gt;Preplnené autobusy
+sa predháňajú
+odnikiaľ nikam
+krúžia v ľubovoľných vzorcoch
+ktoré nič neznamenajú.&lt;/p&gt;
+&lt;p&gt;Pusté polia plné nešťastného života.&lt;/p&gt;
+&lt;p&gt;V diaľke vyje
+neustále akási diaľnica
+ktorá zvýrazňuje a podtrhuje
+bezcieľnosť.&lt;/p&gt;
+&lt;p&gt;Žiadne zjazdy ani výjazdy
+tu nestojí vlak
+ani nič iné.&lt;/p&gt;
+&lt;p&gt;Piskot veľkých ťažkých bŕzd
+a rachot krúži ovzduším.&lt;/p&gt;
+&lt;p&gt;Veľký sivý Argus v kruhu
+na vlas rovnakých
+na vlas rovnakých bratov
+žmurká svojimi nespavými očami
+očami ktoré nevedia spať
+ktoré budí ozvena ničoho
+ktoré budí krik života
+ktorý sa dá prežiť aj krajšie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Toto je príkladný príspevok.&lt;/p&gt;
+&lt;p&gt;Volám sa Vito Kazeta a narodil som sa na Sicílií v roku 1935.&lt;/p&gt;
+&lt;p&gt;Moja mailová adresa je: &lt;a href=&#34;mailto:kontakt@tomasstupavsky.sk&#34;&gt;kontakt@tomasstupavsky.sk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

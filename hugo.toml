@@ -1,0 +1,42 @@
+baseURL = 'tomasstupavsky.sk'
+languageCode = 'sk-SK'
+title = 'Tomáš Stupavský'
+
+theme = 'papermod'
+
+[menu]
+    [[menu.main]]
+    name = 'Domov'
+    url = '/'
+    weight = 10
+    
+    [[menu.main]]
+    name = 'Udalosti'
+    url = '/events'
+    weight = 20
+    
+    [[menu.main]]
+    name = 'Blog'
+    url = '/posts'
+    weight = 30
+    
+    [[menu.main]]
+    name = 'Hudba'
+    url = '/music'
+    weight = 40
+
+    [[menu.main]]
+    name = 'Básne'
+    url = 'poems/'
+    weight = 50
+    
+    [[menu.main]]
+    name = 'Projekty'
+    url = 'projects/'
+    weight = 60
+    
+    [[menu.main]]
+    name = 'Kontakt'
+    url = '/about'
+    weight = 70
+    
